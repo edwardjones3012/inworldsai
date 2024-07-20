@@ -933,11 +933,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   userInputField: {fileID: 2124409297}
   sendButton: {fileID: 1513817038}
-  chatLogText: {fileID: 0}
   messageBoxPrefab: {fileID: 6468875353000469885, guid: b78f57b395d2c934aa6d0cd2ad55ce5d, type: 3}
   contentTransform: {fileID: 1468288849}
   chatScrollRect: {fileID: 1831519825}
-  CanvasGroup: {fileID: 700961920}
+  canvasGroup: {fileID: 700961920}
   SurfCharacter: {fileID: 1353374460}
   PlayerAiming: {fileID: 418578872}
 --- !u!225 &700961920
@@ -1670,7 +1669,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: "This build does not currently integrate with inworld AI due to persistent
     error when signing up tested on multiple devies. \n\n\"Signups are currently
-    not available\"\n\nTherefore the only response you will get is \"I don't understand.\""
+    not available\"\n\nTherefore the only response you will get is \"huh?\"."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
