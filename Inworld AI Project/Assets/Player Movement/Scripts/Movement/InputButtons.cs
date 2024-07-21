@@ -1,5 +1,5 @@
 ﻿
-namespace Eldersoft.Movement {
+namespace ej.Movement {
 
     [System.Flags]
     public enum InputButtons {

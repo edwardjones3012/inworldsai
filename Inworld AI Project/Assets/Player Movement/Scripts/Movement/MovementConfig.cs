@@ -1,5 +1,5 @@
 ﻿using UnityEngine;
-namespace Eldersoft.Movement {
+namespace ej.Movement {
 
     [System.Serializable]
     public class MovementConfig {

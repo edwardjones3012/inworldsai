@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
-using Eldersoft.TraceUtil;
+using ej.TraceUtil;
 
-namespace Eldersoft.Movement {
+namespace ej.Movement {
     public class SurfPhysics {
 
         ///// Fields /////

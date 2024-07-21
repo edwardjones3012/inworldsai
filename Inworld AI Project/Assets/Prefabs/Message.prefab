@@ -85,7 +85,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3024368525046562418}
-  - component: {fileID: 4365364532466195851}
+  - component: {fileID: 3966305253429747091}
   - component: {fileID: 869554532338622179}
   m_Layer: 5
   m_Name: Message
@@ -115,7 +115,7 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 365.151, y: 22}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &4365364532466195851
+--- !u!114 &3966305253429747091
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

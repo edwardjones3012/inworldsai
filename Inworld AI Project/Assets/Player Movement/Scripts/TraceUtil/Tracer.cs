@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Eldersoft.TraceUtil {
+namespace ej.TraceUtil {
     public class Tracer {
 
         /// <summary>

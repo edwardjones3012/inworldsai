@@ -1,10 +1,7 @@
 using UnityEngine;
-using Eldersoft.TraceUtil;
-using System.Collections;
-using Unity.VisualScripting;
-//using Eldersoft.GameEventsSystem;
+using ej.TraceUtil;
 
-namespace Eldersoft.Movement {
+namespace ej.Movement {
     public class MovementController {
 
         ///// Fields /////

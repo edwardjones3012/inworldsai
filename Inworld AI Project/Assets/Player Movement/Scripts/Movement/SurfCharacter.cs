@@ -1,11 +1,8 @@
 ﻿using UnityEngine;
-using System.Collections;
 using System.Collections.Generic;
-using UnityEngine.Rendering;
-//using Eldersoft.GameEventsSystem;
 using System;
 
-namespace Eldersoft.Movement {
+namespace ej.Movement {
 
     /// <summary>
     /// Easily add a surfable character to the scene
@@ -235,7 +232,6 @@ namespace Eldersoft.Movement {
 
             //if (!Player.Instance.Active) return;
             _colliderObject.transform.rotation = Quaternion.identity;
-
 
             //UpdateTestBinds ();
             UpdateMoveData ();

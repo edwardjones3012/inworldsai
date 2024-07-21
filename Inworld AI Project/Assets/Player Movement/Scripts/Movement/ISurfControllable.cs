@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Eldersoft.Movement {
+namespace ej.Movement {
 
     public interface ISurfControllable {
 
